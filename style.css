@@ -1,0 +1,324 @@
+.logo h2{
+font-family: 'Plus Jakarta Sans';
+font-size: 28px;
+font-weight: 800;
+line-height: 35.28px;
+text-align: left;
+color: rgba(19, 24, 63, 1);
+
+}
+
+.button a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+.button button{
+    background-color: rgba(19, 24, 63, 1);
+    width: 140px;
+    height: 48px;
+    border-radius: 25px;
+}
+.up{
+    justify-content: center;
+    display: flex;
+    gap: 50%;
+    
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+}
+.text{
+    margin-top: 5%;
+}
+.text button{
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    width: 140px;
+    height: 48px;
+    border-radius: 25px;
+    color: white;
+    
+
+}
+.text a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+.text h1{
+font-family: 'Plus Jakarta Sans';
+font-size: 40px;
+font-weight: 800;
+line-height: 50.4px;
+text-align: left;
+color: rgba(19, 24, 63, 1);
+
+}
+.text p{
+font-family: 'Plus Jakarta Sans';
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: rgba(131, 134, 154, 1);
+
+}
+.first{
+    width: 339px;
+    height: 259px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gainsboro;
+    margin: auto;
+}
+.first h3{
+font-family: 'Plus Jakarta Sans';
+font-size: 24px;
+font-weight: 800;
+line-height: 32px;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+padding-top: 15%;
+
+
+}
+
+.second{
+ width: 340px;
+ height: 259px;
+background-color: rgba(255, 255, 255, 1);
+border-radius: 10px;
+box-shadow: 7px 7px 7px gainsboro;
+margin: auto;
+margin-top: 5%;
+}
+
+
+.second h3{
+font-family: 'Plus Jakarta Sans';
+font-size: 20px;
+font-weight: 800;
+line-height: 25.2px;
+text-align: left;
+color: rgba(19, 24, 63, 1);
+
+}
+
+.second p{
+font-family: 'Plus Jakarta Sans';
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: rgba(131, 134, 154, 1);
+
+}
+
+.second a{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-decoration: none;
+    color: rgba(247, 71, 128, 1);
+    
+}
+
+
+.second-first{
+    width: 340px;
+    height: 259px;
+   background-color: rgba(255, 255, 255, 1);
+   border-radius: 10px;
+   box-shadow: 7px 7px 7px gainsboro;
+   margin: auto;
+   margin-top: 5%;
+}
+.second-first h3{
+ font-family: 'Plus Jakarta Sans';
+font-size: 20px;
+font-weight: 800;
+line-height: 25.2px;
+text-align: left;
+color: rgba(19, 24, 63, 1);
+}
+
+.second-first p{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: rgba(131, 134, 154, 1);  
+}
+
+.second-first a{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-decoration: none;
+    color: rgba(247, 71, 128, 1);
+    
+}
+
+.second-second{
+    width: 340px;
+    height: 259px;
+   background-color: rgba(255, 255, 255, 1);
+   border-radius: 10px;
+   box-shadow: 7px 7px 7px gainsboro;
+   margin: auto;
+   margin-top: 5%;
+}
+
+
+.second-second h3{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    text-align: left;
+    color: rgba(19, 24, 63, 1);
+
+}
+
+.second-second p{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: rgba(131, 134, 154, 1);
+}
+
+.second-second a{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-decoration: none;
+    color: rgba(247, 71, 128, 1);
+}
+
+.third-first{
+    width: 340px;
+    height: 259px;
+   background-color: rgba(255, 255, 255, 1);
+   border-radius: 10px;
+   box-shadow: 7px 7px 7px gainsboro;
+   margin: auto;
+   margin-top: 5%;
+}
+.third-first h3{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    text-align: left;
+    color: rgba(19, 24, 63, 1);
+}
+.third-first p{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: rgba(131, 134, 154, 1);
+}
+
+.third-first a{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-decoration: none;
+    color: rgba(247, 71, 128, 1);
+}
+.third-second{
+    width: 340px;
+    height: 259px;
+   background-color: rgba(255, 255, 255, 1);
+   border-radius: 10px;
+   box-shadow: 7px 7px 7px gainsboro;
+   margin: auto;
+   margin-top: 5%;
+}
+
+.third-second h3{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    text-align: left;
+    color: rgba(19, 24, 63, 1);   
+}
+
+.third-second p{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: rgba(131, 134, 154, 1);
+}
+
+.third-second a{
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-decoration: none;
+    color: rgba(247, 71, 128, 1); 
+}
+
+.button-two button{
+    background: linear-gradient(180deg, #4851FF 0%, #F02AA6 100%);
+    width: 140px;
+    height: 48px;
+    border-radius: 25px;
+    margin-top: 5%;
+}
+.down{
+    justify-content: center;
+    display: flex;
+    gap: 50%;
+    background-color: rgba(19, 24, 63, 1);
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+}
+.button-two a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+.logo-down{
+    color: white;
+}
+@media(width > 1440px){
+    .flex-one{
+        display: flex;
+        justify-content: center;
+        gap: 13%;
+    }
+    .flex-two{
+        display: flex;
+        justify-content: center;
+        gap: 13%;
+        margin-top: 5%;
+    }
+    .flex-three{
+    display: flex;
+    justify-content: center;
+    gap: 13%;
+    margin-top: 5%;
+}
+}
